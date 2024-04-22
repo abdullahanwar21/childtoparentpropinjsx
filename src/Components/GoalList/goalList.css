@@ -1,0 +1,7 @@
+.goal-list li {
+  padding: 20px;
+  border: 1px solid black;
+  margin: 20px;
+  text-decoration: none;
+  list-style: none;
+}
